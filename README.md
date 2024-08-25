@@ -10,5 +10,5 @@ Repository for TEAL Code.
 
 [Smart Signatures](https://developer.algorand.org/docs/get-details/dapps/smart-contracts/#smart-signatures)
 
-[TEAL Documentation](https://developer.algorand.org/docs/get-details/dapps/avm/teal/specification/)
+[Modifying State in Smart Contracts](https://developer.algorand.org/docs/get-details/dapps/smart-contracts/apps/#modifying-state-in-smart-contract)
 
