@@ -13,3 +13,5 @@ Repository for TEAL Code.
 [Modifying State in Smart Contracts](https://developer.algorand.org/docs/get-details/dapps/smart-contracts/apps/#modifying-state-in-smart-contract)
 
 [ABI details](https://developer.algorand.org/docs/get-details/dapps/smart-contracts/ABI/)
+
+[Transaction Fields and Global Parameters](https://pyteal.readthedocs.io/en/stable/accessing_transaction_field.html#asset-transfer)
